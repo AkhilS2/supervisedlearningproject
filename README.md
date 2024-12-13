@@ -1,6 +1,8 @@
 # Supervised Learning Project
 **Included Files:**
+
 SupervisedLearningProject.ipynb: Jupyter notebook that contains the report and the code for the lab.
+
 heart_dataset_uci.csv: UCI dataset for heart health. 
 
 Dataset citation:
